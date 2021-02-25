@@ -1,3 +1,4 @@
+import React from 'react'
 // Form registration 
 import FormRegistr from './Form-Registration/index';
 // App container styled
